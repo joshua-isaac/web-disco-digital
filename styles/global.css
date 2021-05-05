@@ -1,0 +1,11 @@
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;900&display=swap");
+
+/* Import tailwind base styles */
+@tailwind base;
+
+/* Import tailwind component styles */
+@tailwind components;
+
+/* Import tailwind utility styles */
+@tailwind utilities;
