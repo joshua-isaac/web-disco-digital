@@ -32,28 +32,14 @@ export default function Home() {
             blazing-fast websites and web apps.{" "}
           </p>
           <p className="text-sm">
-            * While we are still under construction, feel free to reach out via{" "}
+            * While our website still under construction, feel free to reach out
+            via{" "}
             <span className="font-semibold">
               <a href="mailto:hello@webdisco.digital?Subject=Hello!">email</a>
             </span>{" "}
             for any inquiries.
           </p>
         </div>
-        {/* <ul className="flex mt-8 text-2xl">
-          <li className="mr-4">
-            <a
-              href="https://www.instagram.com/webdisco.digital/?hl=en"
-              target="_blank"
-            >
-              <FiInstagram />
-            </a>
-          </li>
-          <ul>
-            <a href="mailto:hello@webdisco.digital?Subject=Hello!">
-              <FiMail />
-            </a>
-          </ul>
-        </ul> */}
       </main>
     </>
   );
